@@ -1,4 +1,6 @@
-# This project involves analyzing eCommerce sales data using Python and SQL to derive actionable insights and trends. The goal is to demonstrate data manipulation, aggregation, and visualization techniques to help businesses optimize their strategies, improve customer experiences, and drive sales growth. The analysis is performed on a dataset of eCommerce transactions, with the use of Python for data processing and SQL for efficient querying of relational databases.
+#Python+SQL Project
+
+This project involves analyzing eCommerce sales data using Python and SQL to derive actionable insights and trends. The goal is to demonstrate data manipulation, aggregation, and visualization techniques to help businesses optimize their strategies, improve customer experiences, and drive sales growth. The analysis is performed on a dataset of eCommerce transactions, with the use of Python for data processing and SQL for efficient querying of relational databases.
 
 Key Features:
 SQL Data Extraction: SQL is used to extract, filter, and aggregate data from a relational database to support in-depth analysis.
